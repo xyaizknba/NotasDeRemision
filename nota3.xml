@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>36</Folio>
+ <Fecha>13-11-2011</Fecha>
+ <Observaciones>Entrega en puerta 2</Observaciones>
+</Nota>
+<Cliente>
+ <Sr>Miriam Lopez</Sr>
+ <Direccion>Calle 27 Col. Nueva Anzurez</Direccion>
+ <Telefono>76893212</Telefono>
+</Cliente>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>12</cantidad>
+  <descripcion>Cubo Rubic</descripcion>
+  <precio>23.6</precio>
+ </remision>
+</factura>

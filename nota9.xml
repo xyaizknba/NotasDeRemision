@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>911</Folio>
+ <Fecha>11-09-2011</Fecha>
+ <Observaciones>Pago en Efectivo</Observaciones>
+ <Notas>Entrega en la Ciudad de Mexico</Notas>
+</Nota>
+<Cliente>
+ <ClienteNombre>Armando R.M</ClienteNombre>
+ <ClienteDireccion>Cruz Galvez 34, Col: Nva Sta Ma. </ClienteDireccion>
+ <ClienteCiudad>D.F</ClienteCiudad>
+</Cliente>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>12</cantidad>
+  <descripcion>Pilas Recargables</descripcion>
+  <precio>278</precio>
+ </remision>
+</factura>

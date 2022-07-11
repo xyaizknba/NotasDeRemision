@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>8</Folio>
+ <Fecha>11-08-2018</Fecha>
+ <Observaciones>Pago con Tarjeta de Debito</Observaciones>
+ <Notas>Entrega el ultimo dia del Mes</Notas>
+</Nota>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>12</cantidad>
+  <descripcion>Radios</descripcion>
+  <precio>25.5</precio>
+ </remision>
+</factura>

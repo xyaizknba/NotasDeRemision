@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>55</Folio>
+ <Fecha>05-05-2022</Fecha>
+ <Observaciones>30 dias para cambiar los productos defectuosos</Observaciones>
+ <Notas>Pago con cheques</Notas>
+</Nota>
+<Cliente>
+ <ClienteNombre>Lirio Lopez</ClienteNombre>
+ <ClienteDireccion>Platanales 55, Col. San rafael</ClienteDireccion>
+ <ClienteTelefono>456789</ClienteTelefono>
+ <ClienteEmail>lirio@falso.es</ClienteEmail>
+</Cliente>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Libros</descripcion>
+  <precio>123.6</precio>
+ </remision>
+</factura>

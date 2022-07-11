@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>7</Folio>
+ <Fecha>11-07-2022</Fecha>
+ <Observaciones>Pago en Efectivo</Observaciones>
+</Nota>
+<Cliente>
+ <ClienteNombre>Arianna Lopez</ClienteNombre>
+ <ClienteDireccion>Nueces 67. Del Azcapotzalco</ClienteDireccion>
+ <ClienteTelefono>2565345</ClienteTelefono>
+ <ClienteEmail>falso@falso.com</ClienteEmail>
+</Cliente>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Cable Coaxial</descripcion>
+  <precio>23.6</precio>
+ </remision>
+</factura>

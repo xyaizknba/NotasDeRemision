@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>1</Folio>
+ <Fecha>01-11-2011</Fecha>
+ <Condiciones>1 Condicion XML</Condiciones>
+ <Conducto>1 Conducto</Conducto>
+</Nota>
+<Cliente>
+ <Sr>Armando R</Sr>
+ <Direccion>Calle 1 No:23</Direccion>
+ <Ciudad>Ciudad 1</Ciudad>
+</Cliente>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>12</cantidad>
+  <descripcion>Computadora</descripcion>
+  <precio>23.6</precio>
+ </remision>
+</factura>

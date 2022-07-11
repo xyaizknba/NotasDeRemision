@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>2f</Folio>
+ <Fecha>02-11-2011</Fecha>
+ <Condiciones>Ninguna Condicion</Condiciones>
+ <Conducto>Departamento de Adquisiciones</Conducto>
+ <Observaciones>Entrega en Almacen</Observaciones>
+</Nota>
+<Cliente>
+ <Sr>Armando R.M</Sr>
+ <Direccion>Calle Falsa 2</Direccion>
+</Cliente>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>12</cantidad>
+  <descripcion>Router 4G</descripcion>
+  <precio>2335.6</precio>
+ </remision>
+</factura>

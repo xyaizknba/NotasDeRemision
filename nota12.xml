@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>12-A</Folio>
+ <Fecha>11-12-2022</Fecha>
+ <Observaciones>Entrega en el Almacen 4</Observaciones>
+ <Notas>Pago en Efectivo</Notas>
+</Nota>
+<Cliente>
+ <Sr>Armando R.M</Sr>
+ <Direccion>Cruz Galvez 34, Zapopan</Direccion>
+ <Telefono>3432123</Telefono>
+</Cliente>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>22</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Tenis</descripcion>
+  <precio>15</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Pelicula</descripcion>
+  <precio>10</precio>
+ </remision>
+ <remision>
+  <cantidad>12</cantidad>
+  <descripcion>Cargadores de Pilas</descripcion>
+  <precio>23</precio>
+ </remision>
+</factura>
