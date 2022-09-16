@@ -1,0 +1,19 @@
+[
+{"remision" :
+ {
+  "Folio" : "1-A",
+  "Fecha" : "2022-09-15",
+  "Condiciones" : "Ninguna.",
+  "Conducto":"Adquisiciones (Compras)",
+  "Sr":"Monica Carmona Garcia R.",
+  "Direccion":"Nueces 12",
+  "Ciudad": "Nuevo Leon M."
+ }
+},
+{"remision" :{"cantidad" : "1","descripcion" : "Refresco","precio" : "23.5"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Balon","precio" : "45"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Antena Wifi","precio" : "1500"}},
+{"remision" :{"cantidad" : "4","descripcion" : "Avion Armable","precio" : "600"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cable USB","precio" : "100"}}
+
+]

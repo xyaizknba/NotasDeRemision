@@ -1,0 +1,18 @@
+[
+{"remision" :
+ {
+  "Folio" : "4",
+  "Fecha" : "2021-04-28",
+  "Cliente" : "Teresa Lopez",
+  "Domicilio" : "Plan de San Luis 456",
+  "Estado" : "Yucatan",
+  "EMail" : "correofalso@kmail.com",
+  "Observaciones" : "Entrega en el local 4"
+ }
+},
+{"remision" :{"cantidad" : "1","descripcion" : "Refresco","precio" : "23.5"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Balon","precio" : "45"}},
+{"remision" :{"cantidad" : "6","descripcion" : "Antena Wifi","precio" : "2915"}},
+{"remision" :{"cantidad" : "4","descripcion" : "Avion Armable","precio" : "222"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cable USB","precio" : "100"}}
+]

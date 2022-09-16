@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>3</Folio>
+ <Fecha>2021-03-09</Fecha>
+ <Observaciones>Entrega el proximo Lunes</Observaciones>
+</Nota>
+<Cliente>
+ <Sr>Lirio Zapata</Sr>
+ <Direccion>Norte 3g</Direccion>
+ <Telefono>345278252</Telefono>
+</Cliente>
+ <remision>
+  <cantidad>3</cantidad>
+  <descripcion>Telefonos</descripcion>
+  <precio>2150.50</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Mochila</descripcion>
+  <precio>40.5</precio>
+ </remision>
+ <remision>
+  <cantidad>3</cantidad>
+  <descripcion>Radios FM</descripcion>
+  <precio>34</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Bicicletas</descripcion>
+  <precio>88</precio>
+ </remision>
+</factura>

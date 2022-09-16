@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>9</Folio>
+ <Fecha>2021-09-28</Fecha>
+ <Observaciones>Entrega dentro de 9 Dias</Observaciones>
+ <Notas>Entrega en Almacen Central</Notas>
+</Nota>
+<Cliente>
+ <ClienteNombre>Lirio Ramos Garcia</ClienteNombre>
+ <ClienteDireccion>Tulipanes 45 Col. Arenal</ClienteDireccion>
+ <ClienteCiudad>Veracruz</ClienteCiudad>
+</Cliente>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Refresco</descripcion>
+  <precio>23.5</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>45</precio>
+ </remision>
+ <remision>
+  <cantidad>6</cantidad>
+  <descripcion>Antena Wifi</descripcion>
+  <precio>1320</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Avion Armable</descripcion>
+  <precio>222</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cable USB</descripcion>
+  <precio>100</precio>
+ </remision>
+
+</factura>

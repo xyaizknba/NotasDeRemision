@@ -1,0 +1,18 @@
+[
+{"remision" :
+ {
+  "Folio" : "7",
+  "Fecha" : "2021-07-28",
+  "ClienteNombre" : "Itzel Zayil",
+  "ClienteDireccion" : "Nueces 654",
+  "ClienteTelefono" : "7777234",
+  "ClienteEmail" : "falso7@gmail.com",
+  "Observaciones" : "Pago en 4 partes"
+ }
+},
+{"remision" :{"cantidad" : "1","descripcion" : "Refresco","precio" : "23.5"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Balon","precio" : "45"}},
+{"remision" :{"cantidad" : "4","descripcion" : "Antena Wifi","precio" : "2234"}},
+{"remision" :{"cantidad" : "4","descripcion" : "Avion Armable","precio" : "222"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cable USB","precio" : "100"}}
+]

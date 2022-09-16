@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>1-A</Folio>
+ <Fecha>2022-09-15</Fecha>
+ <Condiciones>Ninguna.</Condiciones>
+ <Conducto>Adquisiciones (Compras)</Conducto>
+</Nota>
+<Cliente>
+ <Sr>Monica Carmona Garcia R.</Sr>
+ <Direccion>Nueces 12</Direccion>
+ <Ciudad>Nuevo Leon M.</Ciudad>
+</Cliente>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Refresco</descripcion>
+  <precio>23.5</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>45</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Antena Wifi</descripcion>
+  <precio>1500</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Avion Armable</descripcion>
+  <precio>600</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cable USB</descripcion>
+  <precio>100</precio>
+ </remision>
+ </factura>

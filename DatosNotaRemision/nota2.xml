@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>22</Folio>
+ <Fecha>2022-08-27</Fecha>
+ <Condiciones>Ninguna</Condiciones>
+ <Conducto>Compras Almacen</Conducto>
+ <Observaciones>Entrega en 2 Dias</Observaciones>
+</Nota>
+<Cliente>
+ <Sr>Itzel Lopez </Sr>
+ <Direccion>Narciso 56</Direccion>
+</Cliente>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Bolsa de Papas</descripcion>
+  <precio>12</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Refrescos 600 ml.</descripcion>
+  <precio>11</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cacahuates</descripcion>
+  <precio>9</precio>
+ </remision>
+ <remision>
+  <cantidad>5</cantidad>
+  <descripcion>Paletas de Caramelo</descripcion>
+  <precio>6</precio>
+ </remision>
+ <remision>
+  <cantidad>3</cantidad>
+  <descripcion>Paleta de Hielo</descripcion>
+  <precio>16.5</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Ventilador</descripcion>
+  <precio>1540</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Caja de Grapas</descripcion>
+  <precio>36</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Cuadernos</descripcion>
+  <precio>14</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Plumas Tinta Negra</descripcion>
+  <precio>6</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Desodorante</descripcion>
+  <precio>27</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cable USB tipo C</descripcion>
+  <precio>125</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cigarros</descripcion>
+  <precio>58</precio>
+ </remision>
+ <remision>
+  <cantidad>3</cantidad>
+  <descripcion>Barras de Chocolate</descripcion>
+  <precio>9</precio>
+ </remision>
+ 
+</factura>

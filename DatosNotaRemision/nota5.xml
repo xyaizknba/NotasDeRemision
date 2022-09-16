@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>5</Folio>
+ <Fecha>2021-02-28</Fecha>
+ <Observaciones>Entrega en la puerta 5</Observaciones>
+ <Notas>No hay devoluciones en productos que tengan descuento</Notas>
+</Nota>
+<Cliente>
+ <ClienteNombre>Ana Karen Sanchez</ClienteNombre>
+ <ClienteDireccion>Toronja 23 Col. Zacatepec</ClienteDireccion>
+ <ClienteTelefono>565423</ClienteTelefono>
+ <ClienteEmail>falso@correo.com</ClienteEmail>
+</Cliente>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Refresco</descripcion>
+  <precio>23.5</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>45</precio>
+ </remision>
+ <remision>
+  <cantidad>6</cantidad>
+  <descripcion>Antena Wifi</descripcion>
+  <precio>2312</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Avion Armable</descripcion>
+  <precio>222</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cable USB</descripcion>
+  <precio>100</precio>
+ </remision>
+
+</factura>

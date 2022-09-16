@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>4</Folio>
+ <Fecha>2021-04-28</Fecha>
+ <Observaciones>Entrega en el local 4</Observaciones>
+</Nota>
+<Cliente>
+ <Cliente>Teresa Lopez</Cliente>
+ <Domicilio>Plan de San Luis 456</Domicilio>
+ <Estado>Yucatan</Estado>
+ <EMail>correofalso@kmail.com</EMail>
+</Cliente>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Refresco</descripcion>
+  <precio>23.5</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>45</precio>
+ </remision>
+ <remision>
+  <cantidad>6</cantidad>
+  <descripcion>Antena Wifi</descripcion>
+  <precio>2915</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Avion Armable</descripcion>
+  <precio>222</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cable USB</descripcion>
+  <precio>100</precio>
+ </remision>
+</factura>

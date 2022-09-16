@@ -1,0 +1,19 @@
+[
+{"remision" :
+ {
+  "Folio" : "5",
+  "Fecha" : "2021-02-28",
+  "ClienteNombre" : "Ana Karen Sanchez",
+  "ClienteDireccion" : "Toronja 23 Col. Zacatepec",
+  "ClienteTelefono" : "565423",
+  "ClienteEmail" : "falso@correo.com",
+  "Observaciones" : "Entrega en la puerta 5",
+  "Notas" : "No hay devoluciones en productos que tengan descuento"
+ }
+},
+{"remision" :{"cantidad" : "1","descripcion" : "Refresco","precio" : "23.5"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Balon","precio" : "45"}},
+{"remision" :{"cantidad" : "6","descripcion" : "Antena Wifi","precio" : "2312"}},
+{"remision" :{"cantidad" : "4","descripcion" : "Avion Armable","precio" : "222"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cable USB","precio" : "100"}}
+]

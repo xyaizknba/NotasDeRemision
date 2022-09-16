@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>6</Folio>
+ <Fecha>2021-02-28</Fecha>
+ <Observaciones>Pagar en Caja 6</Observaciones>
+</Nota>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Refresco</descripcion>
+  <precio>23.5</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>45</precio>
+ </remision>
+ <remision>
+  <cantidad>8</cantidad>
+  <descripcion>Antena Wifi</descripcion>
+  <precio>1002.5</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Avion Armable</descripcion>
+  <precio>222</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cable USB</descripcion>
+  <precio>100</precio>
+ </remision>
+
+</factura>

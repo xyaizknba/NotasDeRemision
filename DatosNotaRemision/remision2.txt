@@ -1,0 +1,26 @@
+[
+{"remision" :
+ {
+  "Folio" : "22",
+  "Fecha" : "2022-08-27",
+  "Condiciones" : "Ninguna",
+  "Conducto" : "Compras Almacen",
+  "Sr" : "Itzel Lopez ",
+  "Direccion" : "Narciso 56",
+  "Observaciones" : "Entrega en 2 Dias"
+ }
+},
+{"remision" :{"cantidad" : "1","descripcion" : "Bolsa de Papas","precio" : "12"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Refrescos 600 ml.","precio" : "11"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cacahuates","precio" : "9"}},
+{"remision" :{"cantidad" : "5","descripcion" : "Paletas de Caramelo","precio" : "6"}},
+{"remision" :{"cantidad" : "3","descripcion" : "Paleta de Hielo","precio" : "16.5"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Ventilador","precio" : "1540"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Caja de Grapas","precio" : "36"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Cuadernos","precio" : "14"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Plumas Tinta Negra","precio" : "6"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Desodorante","precio" : "27"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cable USB tipo C","precio" : "125"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cigarros","precio" : "58"}},
+{"remision" :{"cantidad" : "3","descripcion" : "Barras de Chocolate","precio" : "9"}}
+]

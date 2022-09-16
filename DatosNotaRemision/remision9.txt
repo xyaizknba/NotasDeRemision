@@ -1,0 +1,18 @@
+[
+{"remision" :
+ {
+  "Folio" : "9",
+  "Fecha" : "2021-09-28",
+  "ClienteNombre" : "Lirio Ramos Garcia",
+  "ClienteDireccion" : "Tulipanes 45 Col. Arenal",
+  "ClienteCiudad" : "Veracruz",
+  "Observaciones" : "Entrega dentro de 9 Dias",
+  "Notas" : "Entrega en Almacen Central"
+ }
+},
+{"remision" :{"cantidad" : "1","descripcion" : "Refresco","precio" : "23.5"}},
+{"remision" :{"cantidad" : "2","descripcion" : "Balon","precio" : "45"}},
+{"remision" :{"cantidad" : "6","descripcion" : "Antena Wifi","precio" : "1320"}},
+{"remision" :{"cantidad" : "4","descripcion" : "Avion Armable","precio" : "222"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Cable USB","precio" : "100"}}
+]

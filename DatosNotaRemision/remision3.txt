@@ -1,0 +1,16 @@
+[
+{"remision" :
+ {
+  "Folio" : "3",
+  "Fecha" : "2021-03-09",
+  "Sr" : "Lirio Zapata",
+  "Direccion" : "Norte 3g",
+  "Telefono" : "345278252",
+  "Observaciones" : "Entrega el proximo Lunes"
+ }
+},
+{"remision" :{"cantidad" : "3","descripcion" : "Telefonos","precio" : "2150.50"}},
+{"remision" :{"cantidad" : "1","descripcion" : "Mochila","precio" : "40.5"}},
+{"remision" :{"cantidad" : "3","descripcion" : "Radios FM","precio" : "34"}},
+{"remision" :{"cantidad" : "4","descripcion" : "Bicicletas","precio" : "88"}}
+]

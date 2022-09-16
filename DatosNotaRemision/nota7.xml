@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<factura>
+<Nota>
+ <Folio>7</Folio>
+ <Fecha>2021-07-28</Fecha>
+ <Observaciones>Pago en 4 partes</Observaciones>
+</Nota>
+<Cliente>
+ <ClienteNombre>Itzel Zayil</ClienteNombre>
+ <ClienteDireccion>Nueces 654</ClienteDireccion>
+ <ClienteTelefono>7777234</ClienteTelefono>
+ <ClienteEmail>falso7@gmail.com</ClienteEmail>
+</Cliente>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Refresco</descripcion>
+  <precio>23.5</precio>
+ </remision>
+ <remision>
+  <cantidad>2</cantidad>
+  <descripcion>Balon</descripcion>
+  <precio>45</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Antena Wifi</descripcion>
+  <precio>2234</precio>
+ </remision>
+ <remision>
+  <cantidad>4</cantidad>
+  <descripcion>Avion Armable</descripcion>
+  <precio>222</precio>
+ </remision>
+ <remision>
+  <cantidad>1</cantidad>
+  <descripcion>Cable USB</descripcion>
+  <precio>100</precio>
+ </remision>
+
+</factura>
